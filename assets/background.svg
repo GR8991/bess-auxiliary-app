@@ -1,0 +1,21 @@
+<svg viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BESS enclosures and auxiliary transformer">
+ <defs><linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#3D8BFD" stop-opacity=".35"/>
+  <stop offset="1" stop-color="#3D8BFD" stop-opacity=".05"/></linearGradient></defs>
+ <line x1="10" y1="222" x2="550" y2="222" stroke="#26405F" stroke-width="2"/>
+ <g stroke="#7FB2FF" stroke-width="1.6" fill="url(#g)">
+  <rect x="24" y="128" width="150" height="94" rx="4"/><rect x="190" y="128" width="150" height="94" rx="4"/>
+ </g>
+ <g stroke="#7FB2FF" stroke-width="1" opacity=".7">
+  <line x1="40" y1="140" x2="40" y2="210"/><line x1="56" y1="140" x2="56" y2="210"/><line x1="72" y1="140" x2="72" y2="210"/><line x1="88" y1="140" x2="88" y2="210"/><line x1="104" y1="140" x2="104" y2="210"/><line x1="120" y1="140" x2="120" y2="210"/><line x1="136" y1="140" x2="136" y2="210"/><line x1="152" y1="140" x2="152" y2="210"/><line x1="168" y1="140" x2="168" y2="210"/>
+  <line x1="206" y1="140" x2="206" y2="210"/><line x1="222" y1="140" x2="222" y2="210"/><line x1="238" y1="140" x2="238" y2="210"/><line x1="254" y1="140" x2="254" y2="210"/><line x1="270" y1="140" x2="270" y2="210"/><line x1="286" y1="140" x2="286" y2="210"/><line x1="302" y1="140" x2="302" y2="210"/><line x1="318" y1="140" x2="318" y2="210"/><line x1="334" y1="140" x2="334" y2="210"/>
+ </g>
+ <g fill="none" stroke="#5FD0C6" stroke-width="1.6">
+  <rect x="380" y="150" width="70" height="72" rx="4"/><circle cx="403" cy="134" r="12"/><circle cx="427" cy="134" r="12"/>
+  <line x1="415" y1="40" x2="415" y2="122"/><line x1="470" y1="40" x2="470" y2="222"/><line x1="530" y1="40" x2="530" y2="222"/>
+  <path d="M415 40 L470 40 L530 40"/><path d="M380 186 L340 186"/>
+ </g>
+ <g fill="#E6EDF5" font-family="Inter, Segoe UI, sans-serif" font-size="11" opacity=".75">
+  <text x="24" y="118">BESS enclosures</text><text x="372" y="244">Aux transformer</text><text x="466" y="32">MV</text>
+ </g>
+ <g fill="#5FD0C6"><circle cx="415" cy="40" r="2.5"/><circle cx="470" cy="40" r="2.5"/><circle cx="530" cy="40" r="2.5"/></g>
+</svg>
